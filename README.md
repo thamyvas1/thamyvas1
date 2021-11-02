@@ -11,9 +11,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/thamyvas1">
-  <img height="160em" src="https://github-readme-stats.vercel.app/apiusername=thamyvas1&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamyvas1&layout=compact&langs_count=7&theme=nord"/>
+  <a href="https://github.ibm.com/thamyvas1">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thamyvas1&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamyvas1&layout=compact&langs_count=7&theme=nord"/>
 </div>
   <div align="center">
 <div style="display: inline_block"><br>
