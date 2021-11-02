@@ -1,7 +1,7 @@
 ### Hi there,  I am Thamy Vasconcellos
 
 - 💻  I'm currently working with Data Analytics, maily reporting creation.
-- 🌱  I’m currently learning Data Science with Python and Django
+- 🌱  I’m currently learning Data Science, Python and Django.
 - 😄  Pronouns: she/her
 - 📧  Email me: thamyres@live.com
 
@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thamyvas1&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamyvas1&layout=compact&langs_count=7&theme=nord"/>
 </div>
+  <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="" height="30" width="100" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
