@@ -1,9 +1,14 @@
 ### Hi there,  I am Thamy Vasconcellos
-
+<div>
+  
 - 💻  I'm currently working with Data Analytics, maily reporting creation.
 - 🌱  I’m currently learning Data Science, Python and Django.
 - 😄  Pronouns: she/her
 - 📧  Email me: thamyres@live.com
+<img align="right" alt="" width="150" height="150" border="0" src="https://i.picasion.com/pic91/7fa1b91f05a635396d30f8a8dbd00f6d.gif">
+  </div>
+
+
 
 <div align="center">
   <a href="https://github.com/thamyvas1">
