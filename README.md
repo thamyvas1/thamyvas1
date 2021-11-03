@@ -2,7 +2,7 @@
 <div>
   
 - 💻  I'm currently working with Data Analytics, maily reporting creation with SQL and visualization in PowerBi tool Cognos analytics.
-- 🌱  I’m currently learning Data Science, Machine Learning, Python, Django and Flask.
+- 🌱  I’m learning Data Science, Machine Learning, Python, Django and Flask.
 - 😄  Pronouns: she/her
 - 📧  Email me: thamyres@live.com
 <img align="right" alt="" width="150" height="150" border="0" src="https://i.picasion.com/pic91/7fa1b91f05a635396d30f8a8dbd00f6d.gif">
