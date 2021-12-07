@@ -1,7 +1,7 @@
 ### Hi there,  I am Thamy Vasconcellos
 <div>
   
-- 💻  I'm currently working with Data Analytics, maily reporting creation with SQL and visualization in PowerBi tool Cognos analytics.
+- 💻  I'm currently working with Data Analytics, mainly reporting creation with SQL and visualization with analytics tools.
 - 🌱  I’m learning Data Science, Machine Learning, Python, Django and Flask.
 - 😄  Pronouns: she/her
 - 📧  Email me: thamyres@live.com
